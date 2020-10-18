@@ -1,0 +1,11 @@
+x=int(input("locul lui Radu in ordinea mediilor este",77))
+if(x>0)and(x<=25):
+    print("A")
+elif(x>25)and(x<=50):
+    print("B")
+elif(x>50)and(x<=75):
+    print("C")
+elif(x>75)and(x<=100):
+    print("D")
+elif(x>100)and(x<=125):
+    print("E")
