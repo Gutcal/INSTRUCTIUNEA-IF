@@ -1,0 +1,10 @@
+x=int(input("nr de petale a margaritei",23))
+if x%5=0:
+    print("...de loc")
+elif x%4=0:
+    print("...la nebunie")
+elif x%3=0:
+    print("...cu pasiune")
+elif x%2=0:
+    print("...mult")
+else:print("...un pic")
