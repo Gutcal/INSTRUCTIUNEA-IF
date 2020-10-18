@@ -1,0 +1,6 @@
+a=int(input("nr", 3))
+b=int(input("nr", 5))
+c=int(input("nr", 7))
+if (a<b+c) and (b<a+c) and (c<a+b)
+print("da")
+elif print("nu")
