@@ -1,0 +1,10 @@
+x=int(input("locul lui Ionel",38))
+if (x>0)and(x<=25):
+    print("a primit tricou de culoare alba")
+elif(x>25)and(x<=50):
+    print("a primit tricou de culoare rosie")
+elif(x>50)and(x<=75):
+    print("a primit tricou de culoare albastră")
+elif(x>75)and(x<=100):
+    print("a primit tricou de culoare neagra")
+elif(x<0)or(x>100):
