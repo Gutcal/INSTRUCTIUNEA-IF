@@ -1,0 +1,5 @@
+n=int(input(" nr de ordine a lui Ionel",50))
+if n>0:
+  print("el a fost cazat in căsuța a",n//4)
+else:print("Ionel nu a fost la tabăra")
+    
