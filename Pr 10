@@ -1,0 +1,8 @@
+g=int(input("nr. de gainu",100))
+b=int(input("nr. de boabe",4050))
+x=b//(g+1)
+y=b-(x*(g+1))
+if y==0
+print(x,"-egalitate")
+elif y!=0
+print("cuvântul a primitcu",x"boabe")
